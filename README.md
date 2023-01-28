@@ -11,7 +11,7 @@ This repository contains the code to generate Shakespearean-sounding text and ca
 3. Go to codes directory
 4. To run the code, specify the shell script by running:
 ```sh
-  ./run.sh
+  ./run.bash
    ```
 This script will first calculate bigrams, unigrams, and normalized bigrams and store them in a text file inside the outputs directory by running the count_bigrams.py script.
 
