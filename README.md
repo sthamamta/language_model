@@ -18,7 +18,9 @@ This script will first calculate bigrams, unigrams, and normalized bigrams and s
 Next, the prob_sentence.py script will run to calculate the probability of the input sentence with or without laplace smoothing based on user input. This script takes two inputs from the user:
 
 The input sentence for which the probability is to be calculated
+
 A "y" or "n" indicating whether to use laplace smoothing
+
 Finally, the generate_sentence.py script will be run which generates a sentence based on the given input word with or without using laplace smoothing.
 
 
